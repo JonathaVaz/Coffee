@@ -1,0 +1,3 @@
+Sobre Este Projeto: 
+
+O conjunto de dados contém ID da transação, data da transação, hora da transação, ID da loja, pois há várias lojas, localização da loja, ID do produto, quantidade da transação, preço unitário, fatura total, ou seja, quantidade da transação * preço unitário, categoria do produto e muitos outros. Através desses dados será feito diversos procedimentos de Ciência de Dados como, Análise de Dados Exploratória, Análise de Perfil, Métricas de Avaliação, Testes em Algoritmos e o principal, a Classificação dos Cafés por suas características.
